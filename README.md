@@ -78,7 +78,7 @@ Turning data into actionable insights while empowering individuals and organizat
 
 ## 📫 Contact Me
 - 📧 Email: temobuk2002.aa@gmail.com  
-- 💼 LinkedIn: [https://www.linkedin.com/in/mradedayoadebayo/](https://www.linkedin.com/in/coachadedayoadebayo/)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/coachadedayoadebayo/](www.linkedin.com/in/coachadedayoadebayo)  
 - 📱 WhatsApp: +2348062167081  
 
 ---
