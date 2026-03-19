@@ -5,7 +5,7 @@ Turning data into actionable insights while empowering individuals and organizat
 
 ---
 
-## 🚀 About Me
+## 🧑‍💼 About Me
 - 🎓 B.Tech in Pure & Applied Mathematics (Second Class Upper, Best Graduating Student)  
 - 📊 Transitioning into Data Science with strong analytical and business background  
 - 🧠 Skilled in Data Analysis, Machine Learning, and Business Strategy  
