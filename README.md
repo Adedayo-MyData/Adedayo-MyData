@@ -1,16 +1,26 @@
 # 👋 Hi, I'm Adedayo David Adebayo
 
-**Data Analyst & Business Mentor | Educator | Machine Learning Practitioner**  
-Turning data into actionable insights while empowering individuals and organizations through strategy and capacity building
+**Data Analyst | Machine Learning Practitioner | Certified Human Data Manager**  
+Building reliable data systems and predictive models that drive real-world decision-making
 
 ---
 
 ## 🧑‍💼 About Me
 - 🎓 B.Tech in Pure & Applied Mathematics (Second Class Upper, Best Graduating Student)  
-- 📊 Transitioning into Data Science with strong analytical and business background  
-- 🧠 Skilled in Data Analysis, Machine Learning, and Business Strategy  
-- 👨‍🏫 Experienced Educator, Business Coach, and Administrator  
+- 📊 Data Analyst & ML Practitioner with strong business and operations background  
+- 🧠 Certified Human Data Manager (micro1) — *Senior-level performance in data evaluation*  
+- ⚙️ Focused on building **end-to-end data & ML pipelines** (automation, monitoring, reliability)  
+- 👨‍💼 Experienced in business operations, HR consulting, and education management  
 - 📍 Based in Abuja, Nigeria  
+
+---
+
+## 🔧 Core Competencies
+- Data Analysis & Visualization  
+- Machine Learning & Predictive Modeling  
+- Data Quality, Annotation & Model Evaluation  
+- Pipeline Design & Workflow Automation  
+- Business Problem Solving & Decision Support  
 
 ---
 
@@ -19,69 +29,82 @@ Turning data into actionable insights while empowering individuals and organizat
 - **Data Visualization:** Matplotlib, Seaborn, Power BI  
 - **Machine Learning:** Regression, Classification, Clustering  
 - **Data Analysis:** EDA, Feature Engineering, Data Cleaning  
-- **Business Skills:** Strategy, Coaching, Operations Analysis  
+- **Workflow & Pipelines:** Automated data processing, model training & monitoring  
+- **Business Skills:** Strategy, Operations Analysis, Coaching  
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
 
-### 📌 1. [Retail Sales Exploratory Data Analysis](https://github.com/Adedayo-MyData/Retail-Sales-Exploratory-Data-Analysis)
-- Conducted in-depth EDA on retail sales data to uncover trends, outliers, and revenue drivers  
-- Applied statistical techniques for data cleaning and transformation  
-- Delivered insights to support business decision-making  
-- **Tools:** Python, Pandas, Seaborn, Matplotlib  
-
----
-
-### 📌 2. [Laptop Price Prediction (Machine Learning)](https://github.com/Adedayo-MyData/Laptop-Price-Prediction)
-- Built a Linear Regression model to predict laptop prices based on specifications  
-- Achieved ~75% R² score, identifying key drivers such as RAM, storage, and brand  
-- Performed feature scaling, encoding, and model evaluation  
+### 🔥 1. [Credit Risk Prediction Pipeline](https://github.com/Adedayo-MyData/Credit-Risk-Prediction)
+- Built a **Random Forest model** to predict loan default risk  
+- Achieved:
+  - Accuracy: 93.75%  
+  - Default Recall: 81%  
+  - **ROC-AUC: 0.94+**  
+- Engineered financial ratios (debt-to-income, credit utilization)  
+- Designed an **end-to-end pipeline**:
+  - Data preprocessing  
+  - Model training  
+  - Evaluation (ROC-AUC monitoring)  
+  - Prediction & performance tracking  
+- Focused on making the model **reliable, repeatable, and production-ready**  
 - **Tools:** Python, Scikit-learn, Pandas  
 
 ---
 
-### 📌 3. [Supply Chain Data Analysis](https://github.com/Adedayo-MyData/Supply-Chain-Exploratory-Data-Analysis)
-- Analyzed 4,500 supply chain records to evaluate warehouse performance, lead times, and shipping delays  
-- Discovered balanced warehouse workload distribution (~33% each) and consistent delivery delays (~4.46 days)  
-- Identified that shipping delays are systemic and not supplier-driven (correlation ≈ 0.007)  
-- **Tools:** Python, Pandas, Power BI, Seaborn  
-
----
-
-### 📌 4. [Customer Complaint Resolution Time Prediction](https://github.com/Adedayo-MyData/Customer-Complaint-Resolution-Time-Prediction)
-- Developed a Logistic Regression model to classify high-risk service requests  
-- Achieved 79.3% test accuracy and 0.90 ROC-AUC, enabling early detection of delayed cases  
-- Engineered features and transformed problem into binary classification  
-- **Tools:** Python, Scikit-learn, Pandas  
-
----
-
-### 📌 5. [Customer Segmentation Using K-Means](https://github.com/Adedayo-MyData/Customer-Segmentation-Using-K-Means)
-- Applied clustering on 5,000 customers to identify distinct behavioral segments  
-- Used PCA (explaining ~91% variance) and achieved Silhouette Score of 0.60  
-- Identified high-value, regular, and low-value customer groups for targeted marketing  
+### 📊 2. [Customer Segmentation Using K-Means](https://github.com/Adedayo-MyData/Customer-Segmentation-Using-K-Means)
+- Segmented 5,000 customers into 3 behavioral clusters  
+- Applied PCA (~91% variance retained)  
+- Achieved Silhouette Score: 0.60  
+- Delivered insights for targeted marketing strategies  
 - **Tools:** Python, Scikit-learn, Power BI  
 
 ---
 
-### 📌 6. [Credit Risk Prediction (Machine Learning)](https://github.com/Adedayo-MyData/Credit-Risk-Prediction)
-- Built a Random Forest model to predict loan default risk  
-- Improved model performance through threshold tuning:
-  - Accuracy: 93.75%  
-  - Default Recall: 81%  
-  - ROC-AUC: 0.947  
-- Engineered financial ratios (debt-to-income, credit utilization) as key predictors  
+### 📌 3. [Customer Complaint Resolution Time Prediction](https://github.com/Adedayo-MyData/Customer-Complaint-Resolution-Time-Prediction)
+- Built Logistic Regression model for risk classification  
+- Achieved 79.3% accuracy and **0.90 ROC-AUC**  
+- Enabled early detection of high-risk service delays  
 - **Tools:** Python, Scikit-learn, Pandas  
 
 ---
 
-## 📫 Contact Me
+### 📦 4. [Supply Chain Data Analysis](https://github.com/Adedayo-MyData/Supply-Chain-Exploratory-Data-Analysis)
+- Analyzed 4,500 records to assess logistics performance  
+- Identified systemic delays (~4.46 days)  
+- Found no significant correlation between supplier rating and delays  
+- **Tools:** Python, Pandas, Power BI  
+
+---
+
+### 💻 5. [Laptop Price Prediction](https://github.com/Adedayo-MyData/Laptop-Price-Prediction)
+- Built Linear Regression model (~75% R²)  
+- Identified key price drivers: RAM, storage, brand  
+- **Tools:** Python, Scikit-learn  
+
+---
+
+### 📈 6. [Retail Sales Exploratory Data Analysis](https://github.com/Adedayo-MyData/Retail-Sales-Exploratory-Data-Analysis)
+- Conducted EDA to uncover trends and revenue drivers  
+- Delivered actionable business insights  
+- **Tools:** Python, Pandas, Seaborn  
+
+---
+
+## 📈 What I'm Currently Focused On
+- Building **production-ready ML pipelines**  
+- Improving **model evaluation and monitoring systems**  
+- Applying data science to **real business and financial problems**  
+
+---
+
+## 📫 Connect With Me
 - 📧 Email: temobuk2002.aa@gmail.com  
-- 💼 LinkedIn: [https://www.linkedin.com/in/coachadedayoadebayo/](https://www.linkedin.com/in/coachadedayoadebayo/)  
+- 💼 LinkedIn: https://www.linkedin.com/in/coachadedayoadebayo/  
 - 📱 WhatsApp: +2348062167081  
 
 ---
 
 ## 💡 Motto
-*"Using data to drive decisions and empower people for growth."*
+*"Building data systems that drive decisions and create real impact."*
