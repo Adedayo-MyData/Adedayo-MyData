@@ -37,11 +37,12 @@ Building reliable data systems and predictive models that drive real-world decis
 ## 📂 Featured Projects
 
 ### 🔥 1. [Credit Risk Prediction Pipeline](https://github.com/Adedayo-MyData/Credit-Risk-Prediction)
-- Built a **Random Forest model** to predict loan default risk  
+- Built a **XGBoost** to predict loan default risk  
 - Achieved:
-  - Accuracy: 93.75%  
-  - Default Recall: 81%  
-  - **ROC-AUC: 0.94+**  
+  - Accuracy: 92%  
+  - Default Recall: 80%  
+  - **ROC-AUC: 0.95+**
+  - **Cross Validation ROC-AUC: 0.94+**  
 - Engineered financial ratios (debt-to-income, credit utilization)  
 - Designed an **end-to-end pipeline**:
   - Data preprocessing  
