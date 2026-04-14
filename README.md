@@ -89,8 +89,15 @@ Building reliable data systems and predictive models that drive real-world decis
 ### 📈 6. [Retail Sales Exploratory Data Analysis](https://github.com/Adedayo-MyData/Retail-Sales-Exploratory-Data-Analysis)
 - Conducted EDA to uncover trends and revenue drivers  
 - Delivered actionable business insights  
-- **Tools:** Python, Pandas, Seaborn  
+- **Tools:** Python, Pandas, Seaborn
 
+---
+
+### 📈 7. [Credit Risk Prediction App](https://github.com/Adedayo-MyData/credit-risk-app)
+A machine learning-powered web application that predicts the likelihood of loan default and provides **interpretable, business-friendly insights** into each decision.
+
+🔗 **Live App:** https://bit.ly/Credit_Risk_App
+  
 ---
 
 ## 📈 What I'm Currently Focused On
