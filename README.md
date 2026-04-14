@@ -101,8 +101,21 @@ A machine learning-powered web application that predicts the likelihood of loan 
   
 ---
 
+### 📈 8. [Credit Risk Pipeline Automation](https://github.com/Adedayo-MyData/Credit-Risk-Pipeline-Automation)
+This is an implementation of an **end-to-end automated machine learning pipeline** for **credit risk prediction**.  
+It streamlines the process from data ingestion to model evaluation and prediction, enabling consistent and scalable decision-making.
+
+The system is designed to:
+- Continuously process new data  
+- Retrain models  
+- Generate predictions  
+- Monitor model performance over time 
+
+  
+---
+
 ## 📈 What I'm Currently Focused On
-- Building **production-ready ML pipelines**  
+- Building more **production-ready ML pipelines**  
 - Improving **model evaluation and monitoring systems**  
 - Applying data science to **real business and financial problems**  
 
