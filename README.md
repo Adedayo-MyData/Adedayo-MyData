@@ -9,7 +9,8 @@ Building reliable data systems and predictive models that drive real-world decis
 - 🎓 B.Tech in Pure & Applied Mathematics (Second Class Upper, Best Graduating Student)  
 - 📊 Data Analyst & ML Practitioner with strong business and operations background  
 - 🧠 Certified Human Data Manager (micro1) — *Senior-level performance in data evaluation*  
-- ⚙️ Focused on building **end-to-end data & ML pipelines** (automation, monitoring, reliability)  
+- ⚙️ Focused on building **end-to-end data & ML pipelines** (automation, monitoring, reliability)
+- ⚙️ Model deployment through a user-friendly web-based application powered by Streamlit  
 - 👨‍💼 Experienced in business operations, HR consulting, and education management  
 - 📍 Based in Abuja, Nigeria  
 
